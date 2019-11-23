@@ -5,11 +5,11 @@ In this notebook, we study and go over the usage of a Restricted Boltzmann Machi
 
 Table of Contents
 
-   1.Acquiring the Data
-   2.Loading in the Data
-   3.The Restricted Boltzmann Machine model
-   4.Setting the Model's Parameters
-   5.Recommendation
+   1. Acquiring the Data
+   2. Loading in the Data
+   3. The Restricted Boltzmann Machine model
+   4. Setting the Model's Parameters
+   5. Recommendation
    
    
 
