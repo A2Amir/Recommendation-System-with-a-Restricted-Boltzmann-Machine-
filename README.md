@@ -1,6 +1,6 @@
 # Recommendation System with a Restricted Boltzmann Machine 
 
-In this notebook, we study and go over the usage of a Restricted Boltzmann Machine (RBM) in a Collaborative Filtering based recommendation system. This system is an algorithm that recommends items by trying to find users that are similar to each other based on their item ratings.
+In this notebook, we study and go over the usage of a [Restricted Boltzmann Machine](https://github.com/A2Amir/Restricted-Boltzmann-Machines) (RBM) in a Collaborative Filtering based recommendation system. This system is an algorithm that recommends items by trying to find users that are similar to each other based on their item ratings.
 
 
 
@@ -14,7 +14,7 @@ Table of Contents
    
    
 
-Acquiring the Data
+
 
 To start, we need to download the data we are going to use for the system. The datasets we are going to use were acquired by <a href="http://grouplens.org/datasets/movielens/">GroupLens</a> and contain movies, users and movie ratings by these users.
 
