@@ -1,9 +1,10 @@
 # Recommendation System with a Restricted Boltzmann Machine 
 
-In this notebook, we study and go over the usage of a [Restricted Boltzmann Machine](https://github.com/A2Amir/Restricted-Boltzmann-Machines) (RBM) in a Collaborative Filtering based recommendation system. This system is an algorithm that recommends items by trying to find users that are similar to each other based on their item ratings.
+In [this notebook](https://github.com/A2Amir/Recommendation-System-with-a-Restricted-Boltzmann-Machine-/blob/master/Collaborative_Filtering_with_RBM.ipynb), we study and go over the usage of a [Restricted Boltzmann Machine](https://github.com/A2Amir/Restricted-Boltzmann-Machines) (RBM) in a Collaborative Filtering based recommendation system. This system is an algorithm that recommends items by trying to find users that are similar to each other based on their item ratings.
 
 
 <b>
+   
 Table of Contents
 
    1. Acquiring the Data
@@ -11,6 +12,7 @@ Table of Contents
    3. The Restricted Boltzmann Machine model
    4. Setting the Model's Parameters
    5. Recommendation
+   
  </b>  
    
 
